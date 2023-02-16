@@ -34,7 +34,7 @@ const questions = [
     type: "input",
     name: "test",
     message: "Please give the Test Instructions regarding this Project.",
-    default: 'npm test',
+    default: 'node index.js',
   },
   {
     type: "checkbox",
