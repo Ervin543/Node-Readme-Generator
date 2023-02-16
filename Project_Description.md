@@ -6,8 +6,8 @@ This Project houses code that will create a Professional Readme based on a Users
 
 ![This is the code for the Questions part 1](images/QuestionsJS1.PNG)
 ![This is the code for the Questions part 2](images/QuestionsJS2.PNG)
-![This is the code for the Readme part 1](images/ReadmeJS1.PNG)
-![This is the code for the Readme part 2](images/ReadmeJS2.PNG)
+![This is the code for the Readme part 1](images/ReadMeJS1.PNG)
+![This is the code for the Readme part 2](images/ReadMeJS2.PNG)
 ![This is the code for the Raw Readme](images/Raw_Readme.PNG)
 ![This is the code for the Actual Readme](images/Actual_Readme.PNG)
 
